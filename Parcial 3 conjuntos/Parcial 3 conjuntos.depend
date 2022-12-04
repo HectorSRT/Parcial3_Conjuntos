@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670186896 source:c:\users\hector\onedrive\documentos\estructuras mirne\parcial 3 conjuntos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
